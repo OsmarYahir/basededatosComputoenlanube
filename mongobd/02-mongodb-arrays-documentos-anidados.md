@@ -117,3 +117,5 @@ db.ciudades.find({
 ```json
 db.ciudades.find({"consejeros.edad":{$gt:70}})
 ```
+
+disting
